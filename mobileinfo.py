@@ -29,4 +29,11 @@
    "featurs":"https://www.info.com/serp?q=note%209%20pro%20max%205g&segment=info.0603&s1aid=9007605788&s1cid=12506647400&s1agid=119902232878&s1kid=kwd-1126793349992&utm_source=adwords&gclid=CjwKCAjw49qKBhAoEiwAHQVTo13cScRIKZgfd0ogVoSVLE9OeF_ktzmDEV94fTgiQxRbwALEFGB9ihoC0LEQAvD_BwE",
    "purchase link":"https://www.amazon.in/Test-Exclusive-551/dp/B0784D862L"
    },
+   {
+   "id":"6",
+   "company": "redmi8",
+   "modle":"redmi note 8 pro",
+   "featurs":"https://www.info.com/serp?q=note%209%20pro%20max%205g&segment=info.0603&s1aid=9007605788&s1cid=12506647400&s1agid=119902232878&s1kid=kwd-1126793349992&utm_source=adwords&gclid=CjwKCAjw49qKBhAoEiwAHQVTo13cScRIKZgfd0ogVoSVLE9OeF_ktzmDEV94fTgiQxRbwALEFGB9ihoC0LEQAvD_BwE",
+   "purchase link":"https://www.amazon.in/Test-Exclusive-551/dp/B0784D862L"
+   },
 ]
